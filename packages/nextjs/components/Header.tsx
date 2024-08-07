@@ -116,8 +116,8 @@ export const Header = () => {
             <MetisLogo className="w-10 h-10" />
           </div>
           <div className="flex flex-col">
-            <span className="font-bold leading-tight">NFT Basico</span>
-            <span className="text-xs">Metis Network</span>
+            <span className="font-bold leading-tight">Challenge</span>
+            <span className="text-xs">JOSE TUÑÓN</span>
           </div>
         </Link>
         <ul className="hidden xl:flex xl:flex-nowrap menu menu-horizontal px-1 gap-2">
