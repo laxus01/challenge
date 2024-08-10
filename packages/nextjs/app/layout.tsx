@@ -9,7 +9,7 @@ const baseUrl = process.env.VERCEL_URL
   : `http://localhost:${process.env.PORT || 3000}`;
 const imageUrl = `${baseUrl}/thumbnail.jpg`;
 
-const title = "NFT Basico";
+const title = "Challenge JOSE TUÑON";
 const titleTemplate = "%s | Metis Learn";
 const description = "Built with 🏗 Scaffold-ETH 2";
 
